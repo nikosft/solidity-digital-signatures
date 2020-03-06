@@ -6,4 +6,4 @@ Sample code that uses a node.js to generate a digital signature and a smart cont
 
 ## Execute
 * Run `node singer.js`
-* Execure `Verifier.verify()` with the outputed parameters
+* Execure `Verifier.verify()` with the output parameters
