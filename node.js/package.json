@@ -1,0 +1,15 @@
+{
+  "name": "signer",
+  "version": "1.0.0",
+  "description": "Generates a digital signature that can be verfied by a smart contract",
+  "main": "Signer.js",
+  "dependencies": {
+    "web3": "^1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikos Fotiou",
+  "license": "ISC"
+}
